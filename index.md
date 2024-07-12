@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
   
   <title>
-   Abdul Wasay
+   Brian Hentschel
   </title>
   <link href="assets/img/logo_small.png" rel="icon" type="image/x-icon"/>
 
